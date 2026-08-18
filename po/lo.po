@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the vlc package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vlc 4.0.0-dev\n"
